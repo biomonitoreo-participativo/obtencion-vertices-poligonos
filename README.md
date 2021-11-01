@@ -1,1 +1,1 @@
-# Obtención de vértices los polígonos de una capa vectorial
+# Obtención de vértices de los polígonos de una capa vectorial
